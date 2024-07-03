@@ -1,3 +1,4 @@
+![logo](https://github.com/UtkarshTandon22/UtkarshTandon22/assets/142342310/ecb3c4c3-d212-42e1-a175-83bb2b9a70f0.jpg)
 <h1 align="center">Hi 👋, I'm Utkarsh Tandon</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
